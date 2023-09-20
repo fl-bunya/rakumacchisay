@@ -1,6 +1,6 @@
 {
   "name": "rakumacchisay",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "rakumacchisay is a configurable talking bear",
   "homepage": "https://github.com/fl-bunya/rakumacchisay",
   "bin": {
