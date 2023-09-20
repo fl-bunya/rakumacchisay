@@ -1,0 +1,16 @@
+{
+  "name": "rakumacchisay",
+  "version": "1.0.0",
+  "description": "rakumacchisay is a configurable talking bear",
+  "bin": {
+    "rakumacchisay": "cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rakumacchi"
+  ],
+  "author": "fl-bunya",
+  "license": "ISC"
+}
