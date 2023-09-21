@@ -2,7 +2,7 @@
 ```
  _______________________________________________________________
 /                                                               \
-  Hello World!
+  Hello World
 \________________________  _____________________________________/
                          |/
 
@@ -28,12 +28,12 @@ rakumacchisay is a configurable talking bear.
 
 ## Usage
 ```
-npx rakumacchisay "Hello World!"
+npx rakumacchisay "Hello World"
 ```
 
 ## Usage as a module
 ```
 const { bearSay } = require("rakumacchisay");
-const message = bearSay("Hello World!");
+const message = bearSay("Hello World");
 console.log(message);
 ```
